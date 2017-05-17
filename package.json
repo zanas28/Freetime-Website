@@ -1,0 +1,19 @@
+{
+  "name": "freetikme",
+  "version": "1.0.0",
+  "description": "my own website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanas28/Freetime-Website.git"
+  },
+  "author": "Zanas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zanas28/Freetime-Website/issues"
+  },
+  "homepage": "https://github.com/zanas28/Freetime-Website#readme"
+}
