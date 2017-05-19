@@ -1,8 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Home from './Home';
+// import Home from './Home';
+import BasicExample from './About';
+import Routes from './Routes';
 
 ReactDOM.render(
-    <Home/>,
+    <Routes />,
     document.getElementById('app')
 );
